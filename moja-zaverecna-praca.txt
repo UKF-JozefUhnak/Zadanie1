@@ -1,0 +1,3 @@
+Teoretické porovnanie efektivity mikrokontrolérov Arduino a BBC micro:bit.
+
+--Anotácia.--
